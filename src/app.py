@@ -1,0 +1,1 @@
+# This will be the skeleton app template script

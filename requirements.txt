@@ -1,6 +1,0 @@
-altair
-dash
-numpy
-pandas
-vega_datasets
-gunicorn
