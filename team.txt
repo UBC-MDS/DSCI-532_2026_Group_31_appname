@@ -1,4 +1,4 @@
-Victoria: farkasvic
-Diana: Diana-Cornescu
-Michael: oyatsi
-Christine: chrbcho
+farkasvic
+Diana-Cornescu
+oyatsi
+chrbcho
