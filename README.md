@@ -1,5 +1,5 @@
 # Group 31
 
-### Project Title
+### Chartify: Spotify Dashboard Analytics
 
-3-4 sentence summary
+Chartify is a data analytics dashboard that leverages Spotify's song features dataset to uncover patterns and characteristics of successful songs. Built for music producers and A&R professionals, it provides actionable insights on tempo, energy, danceability, and other key metrics that correlate with chart performance and cross-platform popularity, helping stakeholders make data-driven decisions in hit song production.
