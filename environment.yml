@@ -1,4 +1,4 @@
-name: dsci-532-group-31
+name: chartify
 channels:
   - conda-forge
 dependencies:
